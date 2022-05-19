@@ -57,4 +57,26 @@ button {
     border-radius: 5px; 
 }
 
+h2 {
+    font: bolder 36px roboto;
+    color: #1F2937;
+    text-align: center;
+}
+
+.img-sec {
+    display: flex;
+}
+
+.img-sec {
+    padding: 10px 120px 60px;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.info-img {
+    border-radius: 8px;
+}
+
 
