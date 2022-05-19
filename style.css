@@ -98,14 +98,14 @@ cite {
 }
 
 .section4 {
-    padding: 40px 60px;
+    padding: 50px 60px;
 }
 
 .inner-box {
     background-color: #3882F6;
     color: #F9FAF8;
     border-radius: 5px;
-    padding: 10px 30px;
+    padding: 15px 30px;
     line-height: 1px;
 }
 
@@ -120,5 +120,11 @@ cite {
     margin-top: 13px;
 }
 
+.footer {
+    color: #F9FAF8;
+    background-color: #1F2937;
+    text-align: center;
+    padding: 10px 0px 10px;
+}
 
 
