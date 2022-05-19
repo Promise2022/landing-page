@@ -79,4 +79,22 @@ figcaption {
     border-radius: 8px;
 }
 
+.section3 {
+    background-color: #E5E7EB;
+    padding: 10px 120px 60px;
+}
+
+#quote {
+    text-align: justify;
+    font: italic lighter 36px roboto;
+    color: #1F2937;
+}
+
+cite {
+    font: bold 24px roboto;
+    font-weight: bold;
+    position: absolute;
+    right: 140px;
+}
+
 
