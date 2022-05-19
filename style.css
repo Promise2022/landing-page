@@ -49,7 +49,7 @@ h1 {
     padding: 60px;
 }
 
-button {
+#btn1 {
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 5px 20px;
@@ -96,5 +96,29 @@ cite {
     position: absolute;
     right: 140px;
 }
+
+.section4 {
+    padding: 40px 60px;
+}
+
+.inner-box {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    padding: 10px 30px;
+    line-height: 1px;
+}
+
+.btn2 {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border:solid 1px #F9FAF8;
+    border-radius: 5px;
+    padding: 5px 20px;
+    position: absolute;
+    right: 150px;
+    margin-top: 13px;
+}
+
 
 
